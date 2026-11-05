@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>coachdjgreer Bluesky feed</title>
+    <link>https://coachdjgreer.github.io/feeds/</link>
+    <description>Posts for Bluesky from coachdjgreer</description>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 05 Nov 2026 17:00:00 -0700</lastBuildDate>
+    <item>
+      <title>Test post: please ignore. Checking that my automated posting setup works.</title>
+      <description>Test post: please ignore. Checking that my automated posting setup works.</description>
+      <link>https://coachdjgreer.github.io/feeds/#test-001</link>
+      <guid isPermaLink="false">coachdjgreer-bluesky-test-001</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 -0700</pubDate>
+    </item>
+  </channel>
+</rss>
