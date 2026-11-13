@@ -1,4 +1,13 @@
 {
   "timezone": "Etc/GMT+7",
-  "posts": []
+  "posts": [
+    {
+      "id": "bluesky-test-06",
+      "platforms": [
+        "bluesky"
+      ],
+      "text": "Bluesky Test #06 (scheduled for 9:00 PM)",
+      "when": "2026-11-12T21:00:00-07:00"
+    }
+  ]
 }
