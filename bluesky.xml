@@ -5,14 +5,12 @@
     <link>https://coachdjgreer.github.io/feeds/</link>
     <description>Posts for Bluesky from coachdjgreer</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:50:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:00:00 -0700</lastBuildDate>
     <item>
-      <title>Bluesky Test #02</title>
-      <description>Bluesky Test #02</description>
-      <guid isPermaLink="false">coachdjgreer-bluesky-test-02</guid>
-      <pubDate>Thu, 12 Nov 2026 19:50:00 -0700</pubDate>
-      <enclosure url="https://coachdjgreer.github.io/feeds/images/2026-11-05-fall-sunshine.jpg" length="400280" type="image/jpeg"/>
-      <media:content url="https://coachdjgreer.github.io/feeds/images/2026-11-05-fall-sunshine.jpg" type="image/jpeg" medium="image" width="1500" height="2000"/>
+      <title>Bluesky Test #03 https://coachdjgreer.com</title>
+      <description>Bluesky Test #03 https://coachdjgreer.com</description>
+      <guid isPermaLink="false">coachdjgreer-bluesky-test-03</guid>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
