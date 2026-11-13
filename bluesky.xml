@@ -5,14 +5,12 @@
     <link>https://coachdjgreer.github.io/feeds/</link>
     <description>Posts for Bluesky from coachdjgreer</description>
     <language>en-ca</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:20:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:45:00 -0700</lastBuildDate>
     <item>
-      <title>My wife Karalee Greer enjoying the sunshine breaking through after the clouds on a November fall day.</title>
-      <description>My wife Karalee Greer enjoying the sunshine breaking through after the clouds on a November fall day.</description>
-      <guid isPermaLink="false">coachdjgreer-bluesky-2026-11-05-fall-sunshine-v2</guid>
-      <pubDate>Thu, 05 Nov 2026 18:20:00 -0700</pubDate>
-      <enclosure url="https://coachdjgreer.github.io/feeds/images/2026-11-05-fall-sunshine.jpg" length="400280" type="image/jpeg"/>
-      <media:content url="https://coachdjgreer.github.io/feeds/images/2026-11-05-fall-sunshine.jpg" type="image/jpeg" medium="image" width="1500" height="2000"/>
+      <title>Bluesky Test #01</title>
+      <description>Bluesky Test #01</description>
+      <guid isPermaLink="false">coachdjgreer-bluesky-test-01</guid>
+      <pubDate>Thu, 12 Nov 2026 19:45:00 -0700</pubDate>
     </item>
   </channel>
 </rss>
